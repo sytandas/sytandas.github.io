@@ -21,4 +21,5 @@ This a simple post upon reflection of year and what I learn and what should I do
 
 Just be consistant with things and thinking over right things and ticking right boxes right time only chance that lead to success.
 Wish 2022 is will be the best year.
-Hurry up! No time to sit idly. Let make great things.
+
+`Hurry up! Go deep on things - Make yourself an expert. No time to sit idly. Let make great things.`
