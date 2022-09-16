@@ -1,0 +1,28 @@
+---
+layout: post
+title: init
+date: 2022-09-16
+---
+
+1. [Chromimum browser(un-googled version)] or [Firefox]
+  - with [uBlock Origin], [LeechBlock], if you wish to add google search to un-googled chromium [link]
+2. [Vim] - editor of choice although I'm noob at this
+3. homebrew 
+  - git
+  - bash
+  - haskell
+  - python 
+  - tmux 
+  - ffmpeg
+4. command-line more for fun: cowsay, figlet, cloc, sloccount, fotune
+5. Mac specific
+  - Set Caps Lock to Control
+  - [Karabiner-Elements] to use vim hjkl navigation
+
+[Chromimum browser(un-googled version)]: https://github.com/ungoogled-software/ungoogled-chromium
+[Firefox]: https://www.mozilla.org/firefox/
+[uBlock Origin]: https://ublockorigin.com/
+[LeechBlock]: https://www.proginosko.com/leechblock/
+[link]: https://github.com/ungoogled-software/ungoogled-chromium/discussions/1488#discussioncomment-619116
+[Vim]: https://www.vim.org/
+[Karabiner-Elements]: https://karabiner-elements.pqrs.org/
