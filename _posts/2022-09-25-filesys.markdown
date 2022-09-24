@@ -1,0 +1,80 @@
+---
+layout: post
+title: filesys
+date: 2022-09-25
+---
+
+First things first: 
+What is computer?
+An electronic device for storing, processing and computing data. Typically in form of binary taking instruction from code.
+
+What is OS (Operating System)?
+Operating System is a program that initially loaded into your computer (and your mobile phone too, you called it android/ios) by boot program,
+manage all other application in your computer (and your mobile phone too). In addition we interect with it through GUI (graphical user interface) and CLI (comman line interface). 
+You switch on your mobile phone it boots android then you unlock it and open whatsapp and send message to your best friend. 
+Here andoid is os, whatsapp is a program like other that helps you to communicate with your friend. And all you are doing in a GUI.
+Some extra bits; your laptop/desktop/mobile uses some kind of OS, mobile usually android develop by google, ios by apple.
+And your laptop/desktop - linux/macos(by apple)/windows(by microsoft)
+Every OS have their own way of doing things but conceptually they do the same. Some are flexible some are not. 
+
+Okay! I know whoever reading this, knows about Input device, Output device, CPU, ROM, RAM. That's fantastic. 
+
+Let's go the soul part - the software, specially I wants to talk about the fundamentals - 
+  - Files
+  - Folders 
+  - Editor
+  - Compiler/interpreter
+  - Terminal emulator
+  - Executable programs
+
+Concept of files and folder:
+What is file?
+File is a piece of data; sequence of characters. The characters are 0's and 1's, but most often use as eight bits called "bytes" that 
+mapped to printable character (01100100 = 99 = C) 
+Make some simple text file on your Desktop; name it as "hello.txt" ~ that is a file called "hello" and it has an extension "txt" 
+extension can be anything and it changeable. Well about file extension in a bit.
+What is folder?
+It contains one or several file or folder inside folder. Don't worry to interact with folder they are harmless. 
+Make as some folder and try to understand how it helps organizing files.
+
+Editors:
+An editor is any program that manipulates  contest of the file. Any file for that matter it may be txt, music file, video file, executable file.
+Editors is like pencil, eraser, pen and file is a piece of paper where you can add, modify, append or delete txt or content. 
+e.g. Sublime text, Notepad++, Vim, Emacs so on so forth (I am user of Vim text editor, others swear by VS code, Emacs so on)
+
+Compiler and Interpreter:
+Compilers and interpreters are programs that take file as input and do something as instructed or intended to. 
+It is like an instructor that taking instruction from the file.
+for example if you want to calculate 2 numbers addition in Python language then it taking a file that has an instruction let assume file name is "add.py"
+"add.py" contains:
+a = 2
+b = 3
+sum = a + b #add two numbers 
+print('The sum of {0} and {1} is {2}'. format(a, b, sum))
+Output will be:
+The sum of 2 and 3 is 5
+
+Terminal emulator/command line tools:
+A terminal is a invoking tool - that has a text-based interface for issuing commands to a computer. 
+for example if you have a file called "myfile.txt", you can open it writing "vim myfile.txt". (Vim is an editor)
+
+There are one commander that is a shells (e.g. Bash, Shell, Fish, Zsh etc) for this we are going to use Bash as a name of 
+commander. For OS like unix is looks almost same, windows maybe different. You can think shells as commanding officer - here Bash, it can 
+travel from one location to another, one folder to another invoke, open, command any files.
+
+When we execute "vim myfile.txt", Bash looks around for the file "myfile.txt" in the directory (folder) that Bash happens to be in. 
+If it sees "myfile.txt" in the current directory, it picks up that piece of file. Then, Bash looks for a command called vim. There is a Vim 
+text editor on the system so Bash order Vim and read "myfile.txt" file. Vim does the thing.
+
+Execution:
+Programs are executable file, everything is piece of file or files - technically vim is also files, but we don't read vim, we use vim to read
+or edit our files. Programs are meant to be read by machines, not you and me(they are not meant for editable). They are written in "machine code", run by your system.
+
+Everything is program like Chrome, Firefox browser which you use right now for reading this.
+How can we make things executable? This is out of scope, but on Linux, MacOS every file has a set of permission, that we can change using command. For windows system it is quite hard, actually I don't know. Maybe if you read this far you'll google. 
+We can make those file executable. 
+
+So there are actually lots of programs for various purpose - some for opening webpages and communicating with them (Chrome/Firefox), some for 
+communication and social purpose (mail/instant messages), some for audio-visual works.
+
+Sorry for my oversimplification of some terms. Ask via email.
