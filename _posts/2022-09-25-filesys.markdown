@@ -46,13 +46,17 @@ Compiler and Interpreter:
 Compilers and interpreters are programs that take file as input and do something as instructed or intended to. 
 It is like an instructor that taking instruction from the file.
 for example if you want to calculate 2 numbers addition in Python language then it taking a file that has an instruction let assume file name is "add.py"
+
 "add.py" contains:
+{% highlight python %}
 a = 2
 b = 3
 sum = a + b #add two numbers 
 print('The sum of {0} and {1} is {2}'. format(a, b, sum))
+{% endhighlight %}
+
 Output will be:
-The sum of 2 and 3 is 5
+`The sum of 2 and 3 is 5`
 
 Terminal emulator/command line tools:
 A terminal is a invoking tool - that has a text-based interface for issuing commands to a computer. 
