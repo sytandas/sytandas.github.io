@@ -1,5 +1,5 @@
 ---
-layout: reflection
+layout: post 
 title: reflection
 date: 2024-09-12
 ---
