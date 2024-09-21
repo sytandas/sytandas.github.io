@@ -31,6 +31,11 @@ Lifespan Misrepresentation: Many dams have technically "died" yet continue to fu
 Sudden Water Release: These dams often can't hold enough water and release it abruptly, causing annual floods in many parts of India.
 
 Ref: 
+[India's dam situation]
+[Damodar Valley Corporation situation]
+[Kansabati situation]
+
+
 [India's dam situation]: https://dialogue.earth/en/water/comment-the-lurking-danger-of-indias-dying-dams-and-failing-reservoirs/
 [Damodar Valley Corporation situation]: https://chandidasmahavidyalaya.ac.in/images/uploads/DSE-3_DVC%20as%20a%20Watershed%20Planning%20Unit%20Success%20and%20Failure.pdf
 [Kansabati situation]: https://ijaem.net/issue_dcp/A%20Brief%20Introduction%20to%20Kangsabati%20River.pdf
