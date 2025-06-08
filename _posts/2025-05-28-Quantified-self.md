@@ -1,5 +1,6 @@
-Quantified self: Self knowledge through numbers.
-I always wonder what going through everyones body.
-Which vitals to check and which numbers signify what at least it is quite facinating for me. 
-So I like to work on it github project something like that to find out better althelic ability one can have, but it is at rudimentary phase.
-Updating soon...
+Quantified self: 
+One of simple project to start running analyzer.
+Goal is compare training effect over time, safe prediction of improvement.
+
+Currently it extract data from sports watches (.tcx file) and project the effect of training.
+`github.com/sytandas/ana_run`
